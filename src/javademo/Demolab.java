@@ -4,7 +4,7 @@ public class Demolab {
 	// Java Program to print Multiplication of two floating
 	// point Number.
 
-	class GFG {
+	
 	    public static void main(String[] args)
 	    {
 
@@ -19,4 +19,4 @@ public class Demolab {
 	        System.out.println("The product is: " + p);
 	    }
 	}
-}
+
