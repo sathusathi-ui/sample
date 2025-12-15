@@ -17,6 +17,8 @@ public class Demolab {
 
 	        // to print the product
 	        System.out.println("The product is: " + p);
+	        System.out.println("The product is: " + p);
+	        System.out.println("The product is: " + p);
 	    }
 	}
 
